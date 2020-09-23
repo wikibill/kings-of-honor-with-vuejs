@@ -10,6 +10,7 @@ Vue.use(VueAwesomeSwiper)
 
 
 
+
 import '@/assets/sass/style.scss'
 
 Vue.config.productionTip = false
