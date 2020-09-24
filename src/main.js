@@ -8,10 +8,8 @@ import 'swiper/swiper-bundle.css'
 
 Vue.use(VueAwesomeSwiper)
 
-
-
-
-import '@/assets/sass/style.scss'
+import '@/assets/iconfont/iconfont.css'
+import '@/assets/scss/style.scss'
 
 Vue.config.productionTip = false
 
